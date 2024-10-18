@@ -1,4 +1,21 @@
 # Tailwind Components
+Other resources:
+- https://tailwindflex.com/
+- https://tailwindui.com/components
+- https://merakiui.com/components/application-ui/alerts
+- https://daisyui.com/components/file-input/
+- https://mambaui.com/components/article
+- https://merakiui.com/components/marketing/footers
+- https://codepen.io/collection/DqLkab
+- https://www.tailwind-kit.com/components
+- https://www.tailwindtoolbox.com/starter-components
+- https://kitwind.io/products/kometa/components
+- https://github.com/Honghung123/tailwind-components
+- https://floatui.com/components/footers
+- https://codepen.io/cruip
+- https://www.creative-tim.com/twcomponents
+- https://www.hyperui.dev/
+- https://tailspark.co/components?category=marketing
 
 ## Table of Contents
 
